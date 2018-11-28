@@ -2,6 +2,9 @@
 Daily Tips From iOS World :octocat:🔥  
 This repo inspired by [Swift-Daily-Tips](https://github.com/MobileTipsters/Swift-Daily-Tips).  
 
+### [#4 Storyboards with Enum](/Codes/StoryboardWithEnum.swift)
+![alt text][StoryboardWithEnum]
+
 ### [#3 Permission changes in Notifications](/Codes/NotificationsPermission.swift)
 ![alt text][NotificationsPermission]
 
@@ -14,3 +17,4 @@ This repo inspired by [Swift-Daily-Tips](https://github.com/MobileTipsters/Swift
 [ImageLoader]: /Screenshots/ImageLoader.png
 [AdaptAlamofireManager]: /Screenshots/AdaptAlamofireManager.png
 [NotificationsPermission]: /Screenshots/NotificationsPermission.png
+[StoryboardWithEnum]: /Screenshots/StoryboardWithEnum.png
