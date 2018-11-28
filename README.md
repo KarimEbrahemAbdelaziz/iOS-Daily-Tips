@@ -2,6 +2,9 @@
 Daily Tips From iOS World :octocat:🔥  
 This repo inspired by [Swift-Daily-Tips](https://github.com/MobileTipsters/Swift-Daily-Tips).  
 
+### [#3 Permission changes in Notifications](/Codes/NotificationsPermission.swift)
+![alt text][NotificationsPermission]
+
 ### [#2 Adapt custom settings to Alamofire Request](/Codes/AdaptAlamofireManager.swift)
 ![alt text][AdaptAlamofireManager]
 
@@ -10,3 +13,4 @@ This repo inspired by [Swift-Daily-Tips](https://github.com/MobileTipsters/Swift
 
 [ImageLoader]: /Screenshots/ImageLoader.png
 [AdaptAlamofireManager]: /Screenshots/AdaptAlamofireManager.png
+[NotificationsPermission]: /Screenshots/NotificationsPermission.png
