@@ -2,6 +2,9 @@
 Daily Tips From iOS World :octocat:🔥  
 This repo inspired by [Swift-Daily-Tips](https://github.com/MobileTipsters/Swift-Daily-Tips).  
 
+### [#8 UIScrollView Extension to scroll to top](/Codes/ScrollTop.swift)
+![alt text][ScrollTop]
+
 ### [#7 Email validation](/Codes/EmailValidation.swift)
 ![alt text][EmailValidation]
 
@@ -30,3 +33,4 @@ This repo inspired by [Swift-Daily-Tips](https://github.com/MobileTipsters/Swift
 [RegisterCellWithEnum]: /Screenshots/RegisterCellWithEnum.png
 [RetainCycleTesting]: /Screenshots/RetainCycleTesting.png
 [EmailValidation]: /Screenshots/EmailValidation.png
+[ScrollTop]: /Screenshots/ScrollTop.png
