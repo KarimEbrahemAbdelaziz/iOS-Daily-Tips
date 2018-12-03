@@ -2,6 +2,9 @@
 Daily Tips From iOS World :octocat:🔥  
 This repo inspired by [Swift-Daily-Tips](https://github.com/MobileTipsters/Swift-Daily-Tips).  
 
+### [#11 Refresh Auth Token (RequestRetrier Alamofire Protocol)](/Codes/RequestRetrierAlamofire.swift)
+![alt text][RequestRetrierAlamofire]
+
 ### [#10 Calculate required height needed for UILabel](/Codes/CalculateLabelReauiredHeight.swift)
 ![alt text][CalculateLabelReauiredHeight]
 
@@ -42,3 +45,4 @@ This repo inspired by [Swift-Daily-Tips](https://github.com/MobileTipsters/Swift
 [ScrollTop]: /Screenshots/ScrollTop.png
 [IteratorPattern]: /Screenshots/IteratorPattern.png
 [CalculateLabelReauiredHeight]: /Screenshots/CalculateLabelReauiredHeight.png
+[RequestRetrierAlamofire]: /Screenshots/RequestRetrierAlamofire.png
