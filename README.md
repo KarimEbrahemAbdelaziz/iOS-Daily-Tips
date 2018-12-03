@@ -2,6 +2,9 @@
 Daily Tips From iOS World :octocat:🔥  
 This repo inspired by [Swift-Daily-Tips](https://github.com/MobileTipsters/Swift-Daily-Tips).  
 
+### [#7 Email validation](/Codes/EmailValidation.swift)
+![alt text][EmailValidation]
+
 ### [#6 Test Retain Cycles](/Codes/RetainCycleTesting.swift)
 ![alt text][RetainCycleTesting]
 
@@ -26,3 +29,4 @@ This repo inspired by [Swift-Daily-Tips](https://github.com/MobileTipsters/Swift
 [StoryboardWithEnum]: /Screenshots/StoryboardWithEnum.png
 [RegisterCellWithEnum]: /Screenshots/RegisterCellWithEnum.png
 [RetainCycleTesting]: /Screenshots/RetainCycleTesting.png
+[EmailValidation]: /Screenshots/EmailValidation.png
