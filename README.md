@@ -2,6 +2,9 @@
 Daily Tips From iOS World :octocat:🔥  
 This repo inspired by [Swift-Daily-Tips](https://github.com/MobileTipsters/Swift-Daily-Tips).  
 
+### [#9 Itrate over custom type (Iterator Pattern)](/Codes/IteratorPattern.swift)
+![alt text][IteratorPattern]
+
 ### [#8 UIScrollView Extension to scroll to top](/Codes/ScrollTop.swift)
 ![alt text][ScrollTop]
 
@@ -34,3 +37,4 @@ This repo inspired by [Swift-Daily-Tips](https://github.com/MobileTipsters/Swift
 [RetainCycleTesting]: /Screenshots/RetainCycleTesting.png
 [EmailValidation]: /Screenshots/EmailValidation.png
 [ScrollTop]: /Screenshots/ScrollTop.png
+[IteratorPattern]: /Screenshots/IteratorPattern.png
