@@ -2,6 +2,9 @@
 Daily Tips From iOS World :octocat:🔥  
 This repo inspired by [Swift-Daily-Tips](https://github.com/MobileTipsters/Swift-Daily-Tips).  
 
+### [#10 Calculate required height needed for UILabel](/Codes/CalculateLabelReauiredHeight.swift)
+![alt text][CalculateLabelReauiredHeight]
+
 ### [#9 Itrate over custom type (Iterator Pattern)](/Codes/IteratorPattern.swift)
 ![alt text][IteratorPattern]
 
@@ -38,3 +41,4 @@ This repo inspired by [Swift-Daily-Tips](https://github.com/MobileTipsters/Swift
 [EmailValidation]: /Screenshots/EmailValidation.png
 [ScrollTop]: /Screenshots/ScrollTop.png
 [IteratorPattern]: /Screenshots/IteratorPattern.png
+[CalculateLabelReauiredHeight]: /Screenshots/CalculateLabelReauiredHeight.png
